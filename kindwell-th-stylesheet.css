@@ -1,6 +1,20 @@
 
 
 
+.content-modal-wrapper {
+  display: block !important;
+  overflow-y: auto;
+}
+
+#content-inner {
+  display: block !important;
+}
+
+
+
+
+
+
 .info-box {
 		display: flex;
 		
